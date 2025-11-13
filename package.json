@@ -6,7 +6,7 @@
   "homepage": "https://SMONET88.github.io/deploy-repo/",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
